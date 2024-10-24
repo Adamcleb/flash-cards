@@ -21,8 +21,18 @@ criaCartao(
     'Atenas'
 )
 
+
+
 criaCartao(
     'filosofia',
     'SIGNIFICADO DE SINICO EM GREGO?',
     'CÃO'
 )
+
+
+criaCartao(
+    'filosofia',
+    'qual filosofo foi conhecido mundialmente pelo sinismo?',
+    'Diogenes'
+)
+
